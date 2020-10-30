@@ -43,9 +43,3 @@ The data provided for this homework was retrieved from the following websites:
 
 
 * Census Profile, 2016 Census - Toronto Metropolitan Area, Ontario and Canada
-
-
-* Toronto Open Data
-
-
-* Census Profile, 2016 Census - Toronto Metropolitan Area, Ontario and Canada
