@@ -1,4 +1,4 @@
-# Unit-6---Pythonic-Monopoly
+# Pythonic-Monopoly
 
 ![Toronto](Images/toronto(1).jpg)
 
