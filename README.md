@@ -1,6 +1,6 @@
 # Unit-6---Pythonic-Monopoly
 
-![Toronto](toronto(1).jpg)
+![Toronto](Images/toronto(1).jpg)
 
 ## Real Estate Analysis of Toronto from 2001 to 2016
 In this Repository, you can find the following tasks:
@@ -26,15 +26,22 @@ Once it is working, you can navigate in the tabs of Welcome, Year Market Analysi
 Each tab you help you to navigate in the Real Estate Analysis of Toronto from 2001 to 2016 as follow:
 * Welcome: Welcome message, also an interact map showing the Average House Value in Toronto by Neighborhood. As you go through the map you can find more information about the dwelling types and costs. The colors indicate the scale by average house values;
 
+![Welcome](Images/welcome.png)
+
 * Year Market Analysis: It shows the sum of the number of dwelling types of units per year;
 
 * Shelter Costs Vs. House Value: Here you can compare the average monthly shelter costs for owned and rented dwellings with the average house value per year;
 
+![shelter_house](Images/shelter_house.png)
+
 * Neighborhood Analysis: In this tab, you will find the average house values ​​and the sum of the number of all dwelling types, both per year by neighborhood. Note that you can filter the data by choosing the neighborhood in the box beside each graph.
 Also in this tab, you can see the Average House Values ​​in Toronto by Neighborhood, the colors indicate the scale by average house values;
 
+![Neighborhood](Images/neighbour.png)
+
 * Top Expensive Neighborhood: Finally, it shows the graph with the top 10 most expensive neighborhoods. Also, an interact chart that you can see the most expensive neighborhoods per year with the colors indicating the scale by average monthly shelter costs for owned and rented dwellings.
 
+![Top Expenses](Images/top_exp.png)
 
 The data provided for this homework was retrieved from the following websites:
 
